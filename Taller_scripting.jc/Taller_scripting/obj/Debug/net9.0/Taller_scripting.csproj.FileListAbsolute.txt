@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\bin\Debug\net9.0\Taller_scripting.exe
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\bin\Debug\net9.0\Taller_scripting.deps.json
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\bin\Debug\net9.0\Taller_scripting.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\bin\Debug\net9.0\Taller_scripting.dll
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\bin\Debug\net9.0\Taller_scripting.pdb
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\obj\Debug\net9.0\Taller_scripting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\obj\Debug\net9.0\Taller_scripting.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\obj\Debug\net9.0\Taller_scripting.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\obj\Debug\net9.0\Taller_scripting.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\obj\Debug\net9.0\Taller_scripting.dll
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\obj\Debug\net9.0\refint\Taller_scripting.dll
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\obj\Debug\net9.0\Taller_scripting.pdb
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\obj\Debug\net9.0\Taller_scripting.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\Taller_scripting\Taller_scripting\obj\Debug\net9.0\ref\Taller_scripting.dll

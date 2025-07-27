@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Taller_scripting/1.0.0": {
+        "runtime": {
+          "Taller_scripting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taller_scripting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
