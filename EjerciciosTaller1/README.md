@@ -44,13 +44,13 @@ dotnet run
 # Ejercicio 6 - Mariana Echavarria 
 "Usando un ciclo do-while calcule la suma de los primeros n números impares."
 
-✔ Usa do-while correctamente
-✔ Controla cuántos impares se han sumado con contador
-✔ Suma correctamente los impares (1, 3, 5...)
-✔ Pide al usuario el valor de n
-✔ Imprime un mensaje claro al final
+ Usa do-while correctamente
+ Controla cuántos impares se han sumado con contador
+ Suma correctamente los impares (1, 3, 5...)
+ Pide al usuario el valor de n
+ Imprime un mensaje claro al final
 
-🧠 ¿Qué hace el código?
+ ¿Qué hace el código?
 Suponiendo que el usuario ingresa n = 4, el programa hará lo siguuiente:
 
 numero = 1 → suma = 1
@@ -66,7 +66,7 @@ Y muestra:
 "La suma de los primeros 4 números impares es: 16"
 
 
-### 🔍 Línea por línea:
+###  Línea por línea:
 
 ---
 
