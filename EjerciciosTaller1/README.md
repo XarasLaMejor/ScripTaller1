@@ -156,6 +156,30 @@ Console.WriteLine($"La suma de los primeros {n} números impares es: {suma}");
 ---
 
 
+| Nº | Firma de la Función                                                | Descripción                                         | ¿Para qué sirve?                                            |
+| -- | ------------------------------------------------------------------ | --------------------------------------------------- | ----------------------------------------------------------- |
+| 1  | `static void ImprimirDatos(string nombre, int edad = 18)`          | Parámetro con valor por defecto                     | Muestra nombre y edad, incluso si no se proporciona la edad |
+| 2  | `void MostrarBienvenida()`                                         | Sin parámetros ni retorno                           | Muestra un mensaje de bienvenida                            |
+| 3  | `double CalcularPromedio(int a, int b)`                            | Recibe dos enteros y retorna un `double`            | Calcula el promedio entre dos números                       |
+| 4  | `DateTime ObtenerFechaActual()`                                    | Sin parámetros, retorna `DateTime`                  | Devuelve la fecha y hora actual                             |
+| 5  | `int ContarCaracteres(string texto)`                               | Recibe una cadena y retorna su longitud             | Cuenta la cantidad de caracteres                            |
+| 6  | `bool EsPar(int numero)`                                           | Evalúa si un número es par                          | Retorna `true` si el número es par                          |
+| 7  | `static void Incrementar(ref int valor)`                           | Usa `ref` para modificar un valor desde el exterior | Incrementa el valor de una variable                         |
+| 8  | `void ImprimirLista(List<string> elementos)`                       | Recibe una lista y no retorna nada                  | Muestra cada elemento de la lista                           |
+| 9  | `int Factorial(int n)`                                             | Función recursiva                                   | Calcula el factorial de un número                           |
+| 10 | `int Maximo(int a, int b)`                                         | Retorna el mayor de dos números                     | Compara y devuelve el más grande                            |
+| 11 | `string Concatenar(string a, string b)`                            | Une dos cadenas de texto                            | Devuelve una cadena concatenada                             |
+| 12 | `bool TryParseNumero(string texto, out int numero)`                | Usa `out` para intentar convertir texto a número    | Intenta convertir string a int                              |
+| 13 | `int SumarVarios(params int[] numeros)`                            | Usa `params` para recibir múltiples argumentos      | Suma todos los números dados                                |
+| 14 | `bool EsPrimo(int numero)`                                         | Evalúa si un número es primo                        | Retorna `true` si es primo                                  |
+| 15 | `T RetornarElemento<T>(T valor)`                                   | Función genérica                                    | Devuelve cualquier tipo de dato que se le pase              |
+| 16 | `double CelsiusAFahrenheit(double celsius)`                        | Conversión matemática                               | Convierte de grados Celsius a Fahrenheit                    |
+| 17 | `int ContarVocales(string palabra)`                                | Recorre la cadena                                   | Cuenta cuántas vocales hay en una palabra                   |
+| 18 | `List<int> MultiplicarLista(List<int> numeros, int multiplicador)` | Opera sobre una lista de enteros                    | Devuelve una nueva lista con los elementos multiplicados    |
+| 19 | `bool EsPalindromo(string texto)`                                  | Verifica palíndromos                                | Retorna `true` si la palabra se lee igual al revés          |
+| 20 | `async Task<string> DescargarDatosAsync(string url)`               | Función `async`                                     | Simula una descarga de datos asíncrona                      |
+
+
 
 
 
