@@ -132,10 +132,10 @@ do
     Suma el número impar actual a la variable `suma`.
 
 2. **`contador++;`**
-   ➤Aumenta en 1 el número de impares sumados.
+   Aumenta en 1 el número de impares sumados.
 
 3. **`numero += 2;`**
-   ➤Pasa al siguiente número impar (1 → 3 → 5 → ...).
+   Pasa al siguiente número impar (1 → 3 → 5 → ...).
 
 4. **`while (contador < n);`**
    Se repite hasta que hayas sumado `n` números impares.
